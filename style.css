@@ -1,0 +1,423 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.container1{
+    width: 100%;
+    height: 650px;
+    background-image: url(./1.jpg);
+background-attachment:scroll;
+}
+.gym{
+    color: white;
+    margin-left: 80px;
+    font-size: 20px;
+}
+.home{
+    position: relative;
+    text-align: center;
+    top: 200px;
+    color: white;
+}
+.new{
+    position: relative;
+    top: -20px;
+    font-size: 15px;
+}
+h3{
+    font-size: 39px;
+}
+.btnone{
+background-color: black;
+color: white;
+margin: 40px;
+position: relative;
+left: -45px;
+border: none;
+padding: 7px;
+}
+.btnone:hover{
+    color: brown;
+    background-color: blanchedalmond;
+}
+.btnone:active{
+    color: antiquewhite;
+    transform: scale(0.9);
+}
+.btntwo{
+    background-color: black;
+    color: red;
+    border: 2px solid red;
+position: relative;
+left: -75px;
+padding: 7px;
+border-left: none;
+}
+.btntwo:hover{
+    color: brown;
+    background-color: blanchedalmond;
+}
+.btntwo:active{
+    color: antiquewhite;
+    transform: scale(0.9);
+}
+.containertwo{
+    width: 100%;
+    height: 440px;
+    background-color: black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+} 
+.sher{
+    width: 350px;
+    height: 350px;
+    background-color:black;
+    position: relative;
+    top: 40px;
+    color: white;
+}
+.yaseen{
+    width: 350px;
+    height: 350px;
+    background-color: black;
+    margin:3px;
+    position: relative;
+    top: 46px;
+    left: -140px;
+}
+.btnmember{
+    position: relative;
+    top: 150px;
+    right: -80px;
+    background-color: rgb(255, 2, 2);
+    color: white;
+    border: none;
+    padding: 10px;
+}
+.btnmember:hover{
+    color: brown;
+    background-color: blanchedalmond;
+}
+.btnmember:active{
+    color: antiquewhite;
+    transform: scale(0.9);
+    
+}
+.two{
+    position: relative;
+    top: 110px;
+    font-size:18px;
+}
+.one{
+    position: relative;
+    top: 80px;
+    font-size: 18px;
+}
+.headone{
+    position: relative;
+    top: 40px;
+    font-size:35px ;
+    font-weight: bold;
+}
+.yaseen{
+    color: white;
+}
+.h4four{
+    position: relative;
+    top: 180px;
+    
+}
+.h4three{
+    position: relative;
+    top: 140px;
+   
+}
+
+.h4two{
+    position: relative;
+    top: 100px;
+
+}
+.h4one{
+    position: relative;
+    top: 70px;
+    font-size: 30px;
+}
+.you{
+    color: rgb(46, 46, 46);;
+}
+.containerthree{
+    width: 100%;
+    height: 700px;
+    background-color:rgb(243, 243, 243);
+}
+.girl{
+    position: relative;
+    top: 80px;
+    right: -350px;
+}
+.para{
+    position: relative;
+    right: -350px;
+    top: 100px;
+}
+.para2{
+    position: relative;
+    right: -350px;
+    top: 120px;
+}
+.pic1{
+    width: 250px;
+    height: 250px;
+    background-image: url(./2.jpg);
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    position: relative;
+    right: -300px;
+    top: 150px;
+
+}
+.pic2{
+    width: 250px;
+    height: 250px;
+   background-image: url(./4.jpg);
+   background-position: 20% 20%;
+   background-repeat: no-repeat;
+  
+    position: relative;
+    right: -600px;
+    top: -100px;
+}
+.pica{
+    width: 250px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: -100px;
+    right: -300px;
+}
+.picb{
+    width: 250px;
+    height: 60px;
+    background-color: rgb(253, 255, 251);
+    position: relative;
+    top: -160px;
+    right: -600px;
+}
+.containerfour{
+    width: 100%;
+    height: 800px;
+    background-color:rgb(226, 226, 226);
+}
+.last1{
+    position: relative;
+    text-align: center;
+    top: 100px;
+    right: -20px;
+    padding: 10px;
+}
+.last2{
+  position: relative;
+  right: -550px;
+  margin: 17px;
+  font-size: 30px;
+  font-weight: bold;
+    text-align: center;
+    top: 100px;
+}
+.yoga{
+    width: 250px;
+    height: 250px;
+    background-image: url(./3.jpg);
+    background-position: 50% 50%;
+   background-repeat: no-repeat;
+    position: relative;
+    right: -200px;
+    top: 200px;
+}
+.areobic{
+    width: 250px;
+    height: 250px;
+    background-image: url(./5.jpg);
+    background-position: 60% 40%;
+   background-repeat: no-repeat;
+    position: relative;
+    right: -550px;
+    top: -50px;
+}
+.cardio{
+    width: 250px;
+    height: 250px;
+    background-image: url(./6.jpg);
+    background-position:40% 60%;
+   background-repeat: no-repeat;
+    position: relative;
+    right: -910px;
+    top: -300px;
+}
+.lastone{
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+    top: -278px;
+    right: -200px;
+}
+.lasttwo{
+    width: 250px;
+    height: 150px;
+    background-color:  white;
+    position: relative;
+    top: -428px;
+    right: -550px; 
+}
+.lastthree{
+    width: 250px;
+    height: 150px;
+    background-color:  white;
+    position: relative;
+    top: -586px;
+    right: -902px;
+    margin: 8px;
+}
+.short{
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    padding: 15px;
+    background-color: red;
+    position: relative;
+    right: -185px;
+    color: white;
+    top: -20px;
+}
+.yogap{
+    position:relative;
+    top: -60px;
+    margin: 8px;
+}
+.lll{
+    position: relative;
+    top: -36px;
+    margin: 8px;
+}
+.containerfive{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    position: relative;
+    top: -470px;
+    color: white;
+}
+.weekly{
+    position: relative;
+    text-align: center;
+    top: 100px;
+    font-size: 20px;
+}
+.ttt{
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-size: 38px;
+}
+.table{
+    position: relative;
+    text-align: center;
+    right: -340px;
+    top: 180px;
+}
+.login{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(255, 254, 255);
+    position: relative;
+    top: -470px;
+}
+.tttttt{
+    position: relative;
+    top: 50px;
+    right: -100px;
+    font-size: 45px;
+}
+
+.name{
+    position: relative;
+    top: 100px;
+    right: -120px;
+    
+}
+.email{
+    position: relative;
+    top: 147px;
+    right: 187px;
+}
+.msg{
+    position: relative;
+    top: 310px;
+    right: 495px;
+    height: 100px;
+    padding: 15px;
+    
+}
+.y8{
+    padding: 5px;
+    border: 2px solid white;
+    border-radius: 8px;
+    width: 290px;
+    -moz-box-shadow: 5px 5px 5px 5px #777777; 
+    -webkit-box-shadow: 5px 5px 5px 5px #777777; 
+    box-shadow: 5px 5px 5px 5px #777777;
+    outline: none;
+}
+.y9{
+    position: relative;
+    top: 360px;
+    right: 790px;
+    padding: 8px;
+    width: 290px;
+    background-color: black;
+    color: white;
+    -moz-box-shadow: 5px 5px 5px 5px #777777; 
+    -webkit-box-shadow: 5px 5px 5px 5px #777777; 
+    box-shadow: 5px 5px 5px 5px #777777;
+    outline: none;
+}
+.y9:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+.y9:active{
+    color: #777777;
+    transform: scale(0.9);
+}
+.location{
+   width: 500px;
+   height: 570px;
+   background-color:rgb(255, 254, 255);
+   position: relative;
+   right: -600px;
+   top: -200px;
+}
+.locationh{
+    position: relative;
+    top: 35px;
+    font-size: 40px;
+}
+.locationp{
+position: relative;
+top: 70px;
+right: -20px;
+font-size: 20px;
+font-style:italic;
+}
+iframe{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 50px;
+}
